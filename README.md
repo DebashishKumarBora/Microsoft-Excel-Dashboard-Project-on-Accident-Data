@@ -38,7 +38,8 @@ To use the Accident Data Dashboard:
 ## Screenshots
 
 ![Dashboard Overview]
-[Accident Data Dashboard Hyperlinks.png](https://github.com/DebashishKumarBora/Screenshots/blob/3b0f909f4b13793b5a63751bfd59f94ceb4243ae/Accident%20Data%20Dashboard%20Hyperlinks.png)
+[Accident Data Dashboard Hyperlinks.png]![Accident Data Dashboard](https://github.com/DebashishKumarBora/Microsoft-Excel-Dashboard-Project-on-Accident-Data/assets/167493544/4522ff98-54fa-495a-b26e-6e9c19aefc5c)
+
 ![Data Analysis Sheet](https://github.com/DebashishKumarBora/Screenshots/blob/main/Accident Data Analysis Sheet.png)
 ![Data KPI.png](https://github.com/DebashishKumarBora/Screenshots/blob/main/Accident Data KPI.png)
 ![Dashboard Hyperlinks.png](https://github.com/DebashishKumarBora/Screenshots/blob/main/Accident Data Dashboard Hyperlinks.png)
