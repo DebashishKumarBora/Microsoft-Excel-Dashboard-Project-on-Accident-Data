@@ -38,12 +38,9 @@ To use the Accident Data Dashboard:
 ## Screenshots
 
 ![Dashboard Overview](https://github.com/DebashishKumarBora/Screenshots/blob/main/Accident Data Dashboard.png)
-![Data Analysis Sheet]
-(https://github.com/DebashishKumarBora/Screenshots/blob/main/Accident Data Analysis Sheet.png)
-![Data KPI.png]
-(https://github.com/DebashishKumarBora/Screenshots/blob/main/Accident Data KPI.png)
-![Dashboard Hyperlinks.png]
-(https://github.com/DebashishKumarBora/Screenshots/blob/main/Accident Data Dashboard Hyperlinks.png)
+![Data Analysis Sheet](https://github.com/DebashishKumarBora/Screenshots/blob/main/Accident Data Analysis Sheet.png)
+![Data KPI.png](https://github.com/DebashishKumarBora/Screenshots/blob/main/Accident Data KPI.png)
+![Dashboard Hyperlinks.png](https://github.com/DebashishKumarBora/Screenshots/blob/main/Accident Data Dashboard Hyperlinks.png)
 
 
 
