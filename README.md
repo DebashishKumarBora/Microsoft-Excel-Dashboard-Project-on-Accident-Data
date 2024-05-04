@@ -37,8 +37,7 @@ To use the Accident Data Dashboard:
 
 ## Screenshots
 
-#Dashboard Overview
-[Accident Data Dashboard](https://github.com/DebashishKumarBora/Microsoft-Excel-Dashboard-Project-on-Accident-Data/assets/167493544/4522ff98-54fa-495a-b26e-6e9c19aefc5c)
+#Dashboard Overview ![Accident Data Dashboard](https://github.com/DebashishKumarBora/Microsoft-Excel-Dashboard-Project-on-Accident-Data/assets/167493544/4522ff98-54fa-495a-b26e-6e9c19aefc5c)
 
 #Data Analysis Sheet ![Accident Data Analysis Sheet](https://github.com/DebashishKumarBora/Microsoft-Excel-Dashboard-Project-on-Accident-Data/assets/167493544/f3ba92ec-8cd8-4fec-a7f6-904c8c600093)
 
